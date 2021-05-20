@@ -1,0 +1,4 @@
+name = "Animals"
+uuid = "8f7dc427-d4c1-47a1-80fb-260bf4cd9a54"
+authors = ["Rupesh Jeyaram <rjeyaram@caltech.edu>"]
+version = "0.1.0"
